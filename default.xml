@@ -133,7 +133,7 @@
   <project path="external/exfat" name="AOSPA-L/android_external_exfat" groups="pdk" />
   <project path="external/expat" name="platform/external/expat" groups="pdk" remote="aosp" />
   <project path="external/eyes-free" name="platform/external/eyes-free" groups="pdk-cw-fs" remote="aosp" />
-  <project path="external/f2fs-tools" name="platform/external/f2fs-tools" groups="pdk" remote="aosp" />
+  <project path="external/f2fs-tools" name="CyanogenMod/platform/external/f2fs-tools" groups="pdk" remote="github" revision="cm-12.1" />
   <project path="external/fdlibm" name="platform/external/fdlibm" groups="pdk" remote="aosp" />
   <project path="external/ffmpeg" name="AOSPA-L/android_external_ffmpeg" />
   <project path="external/fio" name="platform/external/fio" remote="aosp" />
